@@ -1,6 +1,6 @@
 ---
 name: project-standards
-description: "Install or sync Brian's agent instruction standards in a repository — PROJECT_WORKFLOW.md, AGENTS.md with the multi-agent delegation policy, and CLAUDE.md importing it. Use when starting a new project, adopting the standards into an existing repo, or syncing many repos at once."
+description: "Use whenever the user creates or sets up a new repo/project, runs or asks for /init, asks to add or fix AGENTS.md, CLAUDE.md or PROJECT_WORKFLOW.md, mentions the multi-agent delegation policy, or wants repos synced to Brian's standards (one repo or many). Takes precedence over the built-in /init and over writing CLAUDE.md from scratch. Installs or syncs Brian's agent instruction standards: canonical PROJECT_WORKFLOW.md, AGENTS.md with the managed workflow block, and CLAUDE.md importing it via @AGENTS.md."
 ---
 
 # Project standards
